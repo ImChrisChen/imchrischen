@@ -1,23 +1,14 @@
-### Hi there 👋
+# Hi there 👋, I'm Chris!
 
-<!--
-**ImChrisChen/imchrischen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-stack Engineer with 5+ years of experience passionate about building engaging user interfaces and rich interactive web applications, and I'm excited about the endless possibilities it offers.
 
-Here are some ideas to get you started:
-  
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🚀
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchrischen&count_private=true)
+- 👨‍💻 Independent development AIGC project [ai.chatmax.tech](https://ai.chatmax.tech)
+- 🌱 I’m currently learning **Web3 development** to enhance my skill set and dive into decentralized applications.
+- 💬 My skill **TypeScript, Vue, React, Node.js, SQL, Linux, Docker, Nginx, CI/CD etc...
+- 📫 How to reach me: [imchrisorz@gmail.com](imchrisorz@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchrischen)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchrischen&layout=compact&hide=html,SCSS,less,ejs,php,stylus)](https://github.com/anuraghazra/github-readme-stats)
