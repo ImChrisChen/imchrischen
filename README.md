@@ -11,4 +11,4 @@ I'm a Full-stack Engineer with 5+ years of experience passionate about building 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchrischen&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchrischen&layout=compact&hide=html,SCSS,less,ejs,php,stylus&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchrischen&layout=compact&hide=html,SCSS,less,ejs,php,stylus&theme=radical)
