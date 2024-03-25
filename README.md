@@ -5,7 +5,7 @@ I'm a Full-stack Engineer with 5+ years of experience passionate about building 
 ## About Me 🚀
 
 - 👨‍💻 Independent development AIGC project [ai.chatmax.tech](https://ai.chatmax.tech)
-- 📜 This my blog [anyways.fun](https://anyways.fun)
+- 📜 This is my blog [anyways.fun](https://anyways.fun)
 - 🌱 I’m currently learning **Web3 development** to enhance my skill set and dive into decentralized applications.
 - 💬 My skills **TypeScript, Vue, React, Node.js, SQL, Linux, Docker, Nginx, CI/CD** etc...
 - 📫 How to reach me: [imchrisorz@gmail.com](mailto:imchrisorz@gmail.com)
