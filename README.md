@@ -6,7 +6,7 @@ I'm a Full-stack Engineer with 5+ years of experience passionate about building 
 
 - 👨‍💻 Independent development AIGC project [ai.chatmax.tech](https://ai.chatmax.tech)
 - 🌱 I’m currently learning **Web3 development** to enhance my skill set and dive into decentralized applications.
-- 💬 My skill **TypeScript, Vue, React, Node.js, SQL, Linux, Docker, Nginx, CI/CD** etc...
+- 💬 My skills **TypeScript, Vue, React, Node.js, SQL, Linux, Docker, Nginx, CI/CD** etc...
 - 📫 How to reach me: [imchrisorz@gmail.com](mailto:imchrisorz@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchrischen)
