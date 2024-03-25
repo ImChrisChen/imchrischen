@@ -9,6 +9,9 @@ I'm a Full-stack Engineer with 5+ years of experience passionate about building 
 - 💬 My skills **TypeScript, Vue, React, Node.js, SQL, Linux, Docker, Nginx, CI/CD** etc...
 - 📫 How to reach me: [imchrisorz@gmail.com](mailto:imchrisorz@gmail.com)
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=imchrischen&theme=radical)](https://git.io/streak-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imchrischen&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imchrischen&layout=compact&hide=html,SCSS,less,ejs,php,stylus&theme=radical)
